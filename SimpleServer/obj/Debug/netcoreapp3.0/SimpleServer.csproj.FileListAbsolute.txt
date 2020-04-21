@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.exe
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.deps.json
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.dll
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\SimpleServer.pdb
+C:\Users\Admin\source\repos\MQ\SimpleServer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.dll
+C:\Users\Admin\source\repos\MQ\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.exe
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.deps.json
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.dll
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\SimpleClient.pdb
+C:\Users\Admin\source\repos\MQ\SmpleClient\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.dll
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.pdb

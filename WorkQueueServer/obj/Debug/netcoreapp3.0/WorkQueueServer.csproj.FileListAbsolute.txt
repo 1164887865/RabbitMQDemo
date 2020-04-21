@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.exe
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.deps.json
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.dll
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\WorkQueueServer.pdb
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\obj\Debug\netcoreapp3.0\WorkQueueServer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\obj\Debug\netcoreapp3.0\WorkQueueServer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\obj\Debug\netcoreapp3.0\WorkQueueServer.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\obj\Debug\netcoreapp3.0\WorkQueueServer.dll
+C:\Users\Admin\source\repos\MQ\WorkQueueServer\obj\Debug\netcoreapp3.0\WorkQueueServer.pdb

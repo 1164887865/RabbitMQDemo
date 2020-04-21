@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.exe
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.deps.json
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.dll
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\FantoutClient.pdb
+C:\Users\Admin\source\repos\MQ\FantoutClient\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\FantoutClient\obj\Debug\netcoreapp3.0\FantoutClient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\FantoutClient\obj\Debug\netcoreapp3.0\FantoutClient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\FantoutClient\obj\Debug\netcoreapp3.0\FantoutClient.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\FantoutClient\obj\Debug\netcoreapp3.0\FantoutClient.dll
+C:\Users\Admin\source\repos\MQ\FantoutClient\obj\Debug\netcoreapp3.0\FantoutClient.pdb

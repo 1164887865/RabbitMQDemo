@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.exe
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.deps.json
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.dll
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\MQ.pdb
+C:\Users\Admin\source\repos\MQ\MQ\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.dll
+C:\Users\Admin\source\repos\MQ\MQ\obj\Debug\netcoreapp3.0\MQ.pdb

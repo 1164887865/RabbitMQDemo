@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.exe
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.deps.json
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.dll
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\DirectClient1.pdb
+C:\Users\Admin\source\repos\MQ\DirectClient1\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.dll
+C:\Users\Admin\source\repos\MQ\DirectClient1\obj\Debug\netcoreapp3.0\DirectClient1.pdb
