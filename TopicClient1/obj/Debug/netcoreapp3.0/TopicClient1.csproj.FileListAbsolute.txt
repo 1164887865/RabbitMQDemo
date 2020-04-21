@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.exe
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.deps.json
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.dll
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\TopicClient1.pdb
+C:\Users\Admin\source\repos\MQ\TopicClient1\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.dll
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.pdb
+C:\Users\Admin\source\repos\MQ\TopicClient1\obj\Debug\netcoreapp3.0\TopicClient1.csprojAssemblyReference.cache

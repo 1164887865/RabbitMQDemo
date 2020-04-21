@@ -1,7 +1,6 @@
 ﻿using RabbitMQ.Client;
 using System;
 using System.Text;
-using System.Threading;
 
 namespace WorkQueueServer
 {
@@ -20,7 +19,7 @@ namespace WorkQueueServer
             var connection = factory.CreateConnection();
             //3.创建管道
             var channel = connection.CreateModel();
-            
+
             //4.声明队列
             channel.QueueDeclare("simple", false, false, false, null);
 

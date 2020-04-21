@@ -33,8 +33,8 @@ namespace WorkQueueClient2
                     {
                         byte[] message = e.Body.ToArray();
                         Console.WriteLine("接收消息:" + Encoding.UTF8.GetString(message));
-                            //返回消息确认
-                            channel.BasicAck(e.DeliveryTag, false);
+                        //返回消息确认
+                        channel.BasicAck(e.DeliveryTag, false);
                     };
                     //消费者开启监听
                     channel.BasicConsume("simple", false, consumer);
