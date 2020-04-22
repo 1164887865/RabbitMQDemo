@@ -10,3 +10,4 @@ C:\Users\Admin\source\repos\MQ\FanoutServer\obj\Debug\netcoreapp3.0\FanoutServer
 C:\Users\Admin\source\repos\MQ\FanoutServer\obj\Debug\netcoreapp3.0\FanoutServer.csproj.CopyComplete
 C:\Users\Admin\source\repos\MQ\FanoutServer\obj\Debug\netcoreapp3.0\FanoutServer.dll
 C:\Users\Admin\source\repos\MQ\FanoutServer\obj\Debug\netcoreapp3.0\FanoutServer.pdb
+C:\Users\Admin\source\repos\MQ\FanoutServer\obj\Debug\netcoreapp3.0\FanoutServer.csprojAssemblyReference.cache

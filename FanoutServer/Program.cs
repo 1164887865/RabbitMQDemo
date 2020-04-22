@@ -25,6 +25,10 @@ namespace FanoutServer
             {
                 //4.创建交换器
                 channel.ExchangeDeclare("exchange", "fanout");
+                channel.QueueDeclare("SMSqueue",true,false,false,null);
+                channel.QueueDeclare("SMAILqueue", true, false, false, null);
+                channel.QueueBind("SMSqueue", "exchange","",null);
+                channel.QueueBind("SMAILqueue", "exchange","",null);
 
                 string msg = "";
 
@@ -32,7 +36,7 @@ namespace FanoutServer
                 {
                     msg = $"发布消息{i}";
                     var body = Encoding.UTF8.GetBytes(msg);
-                    channel.BasicPublish("exchange", "hello", null, body);
+                    channel.BasicPublish("exchange", "", null, body);
                     Console.WriteLine($"发布成功：{msg}");
                     Thread.Sleep(1000);
                 }

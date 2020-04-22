@@ -23,12 +23,11 @@ namespace FantoutClient
                 //3.创建通道
                 using (var channel = connection.CreateModel())
                 {
-                    //4.定义交换器
+                    //4.定义交换器  持久化
                     channel.ExchangeDeclare("exchange", "fanout");
-                    //5.创建匿名队列，绑定交换器
-                    //var queueName = channel.QueueDeclare("simple");
-                    var queueName = channel.QueueDeclare().QueueName;
-                    channel.QueueBind(queueName, "exchange", "");
+                    //5.创建匿名队列，绑定交换器  durable:true 持久化 没有被消费不会丢失
+                    var queueName = channel.QueueDeclare("SMAILqueue",true,false,false,null);
+                    channel.QueueBind(queueName, "exchange", "",null);
 
                     //6.创建消费者
                     var consumer = new EventingBasicConsumer(channel);
