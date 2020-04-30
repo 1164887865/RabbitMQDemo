@@ -1,6 +1,7 @@
 ﻿using RabbitMQ.Client;
 using System;
 using System.Text;
+using System.Threading;
 
 namespace SimpleServer
 {
@@ -21,14 +22,31 @@ namespace SimpleServer
             var channel = connection.CreateModel();
             //4.声明队列
             channel.QueueDeclare("simple", false, false, false, null);
-
-            for (int i = 0; i < 10; i++)
+            //开启事务
+            //channel.TxSelect();
+            channel.ConfirmSelect();
+            Random random = new Random();
+            try {
+                for (int i = 0; i < 1000; i++)
+                {
+                    string msg = $"第{i + 1}条消息-"+random.Next(i,i*10)+"-"+Guid.NewGuid().ToString();
+                    //5.发布消息
+                    channel.BasicPublish("", "simple", null, Encoding.UTF8.GetBytes(msg));
+                    Console.WriteLine($"已发送消息：{msg}");
+                    Thread.Sleep(500);
+                }
+                //channel.TxCommit();
+                channel.WaitForConfirmsOrDie();
+                //channel.WaitForConfirms();
+                Console.WriteLine("发送完成");
+            } 
+            catch(Exception ex)
             {
-                string msg = $"第{i + 1}条消息";
-                //5.发布消息
-                channel.BasicPublish("", "simple", null, Encoding.UTF8.GetBytes(msg));
-                Console.WriteLine($"已发送消息：{msg}");
+                //channel.TxRollback();
+                Console.WriteLine(ex.Message);
             }
+            
+
             channel.Close();
             connection.Close();
 

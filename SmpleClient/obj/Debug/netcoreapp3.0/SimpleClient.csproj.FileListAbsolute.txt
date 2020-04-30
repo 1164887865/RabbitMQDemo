@@ -10,3 +10,4 @@ C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.
 C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.csproj.CopyComplete
 C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.dll
 C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.pdb
+C:\Users\Admin\source\repos\MQ\SmpleClient\obj\Debug\netcoreapp3.0\SimpleClient.csprojAssemblyReference.cache
