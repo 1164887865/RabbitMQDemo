@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.exe
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.deps.json
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.runtimeconfig.json
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.dll
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\MessagePriority.pdb
+C:\Users\Admin\source\repos\MQ\MessagePriority\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.csproj.CopyComplete
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.dll
+C:\Users\Admin\source\repos\MQ\MessagePriority\obj\Debug\netcoreapp3.0\MessagePriority.pdb

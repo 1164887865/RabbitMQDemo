@@ -1,6 +1,7 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace FantoutClient
@@ -24,9 +25,9 @@ namespace FantoutClient
                 using (var channel = connection.CreateModel())
                 {
                     //4.定义交换器  持久化
-                    channel.ExchangeDeclare("exchange", "fanout");
+                    channel.ExchangeDeclare("exchange", "fanout",true);
                     //5.创建匿名队列，绑定交换器  durable:true 持久化 没有被消费不会丢失
-                    var queueName = channel.QueueDeclare("SMAILqueue",true,false,false,null);
+                    var queueName = channel.QueueDeclare("Priqueue", true, false, false, new Dictionary<string, object>() { { "x-max-priority", 10 } });
                     channel.QueueBind(queueName, "exchange", "",null);
 
                     //6.创建消费者
